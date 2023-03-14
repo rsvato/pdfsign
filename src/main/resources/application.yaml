@@ -2,3 +2,4 @@ pdfsign:
   outputDir: ${OUTPUT}
   baseDir: ${BASEDIR}
   tempDir: ${TEMPDIR}
+  maxAge: ${MAX_AGE:5m}
