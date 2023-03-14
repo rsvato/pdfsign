@@ -1,4 +1,4 @@
-//https://cryptopro.ru/sites/default/files/products/cades/cadesplugin_api.js?v=ea0a733
+//Taken from: https://cryptopro.ru/sites/default/files/products/cades/cadesplugin_api.js?v=ea0a733
 ;(function () {
     //already loaded
     if(window.cadesplugin)
