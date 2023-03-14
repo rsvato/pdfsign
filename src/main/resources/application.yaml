@@ -1,0 +1,4 @@
+pdfsign:
+  outputDir: ${OUTPUT}
+  baseDir: ${BASEDIR}
+  tempDir: ${TEMPDIR}

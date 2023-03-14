@@ -1,0 +1,5 @@
+pdfsign:
+  outputDir: ./documents/signed
+  baseDir: ./documents/examples
+  tempDir: ./documents/temp
+  maxAge: 5m
